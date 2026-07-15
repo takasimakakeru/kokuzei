@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 
 API_KEY = "dfc5e48757ca24fbed2df946e1e877222d69ed06"  # ここに実際のキーを貼る
-STATS_DATA_ID = "0003000000"  # 取得したい統計ID
+STATS_DATA_ID = "0004023602"  # 取得したい統計ID
 
 # ベースとなるURL（パラメータを含めない）
 url = "https://api.e-stat.go.jp/rest/3.0/app/json/getStatsData"
